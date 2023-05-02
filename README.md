@@ -10,7 +10,7 @@
 
 
 <li>
-<a href=""> 第1堂  </a>
+<a href="https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/d142841a5351fd6474d463ced035a287cb804ed4/Part%201_Drawing(I)%20-%20Expand!%20Drawing!_compressed.pdf"> 第1堂  </a>
 </li>
 
 <li>
