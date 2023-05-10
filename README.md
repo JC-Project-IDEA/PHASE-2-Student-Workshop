@@ -14,7 +14,7 @@
 </li>
 
 <li>
-<a href=""> 第2堂  </a>
+<a href="https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/main/Part%202%20%20Arduino(I)%20-%20Draw%20the%20Circuit.pdf"> 第2堂  </a>
 </li>
 
 <li>
