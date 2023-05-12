@@ -54,7 +54,7 @@
 
 4.	結合以上技巧，創作出獨一無二的視覺＋觸感＋聲音互動藝術作品，並探索利用導電媒體創作共融藝術的可能性，優秀作品亦有機會於年度展覽中展出。
 
-## 🔗相關連結
+## 🔗相關連結 - Lazarus
 1. 音頻檔案轉換 (.m4a to .mp3) https://cloudconvert.com/m4a-to-mp3 or https://convertio.co/m4a-mp3/
 
 2. Big Sound Bank https://bigsoundbank.com/
@@ -62,6 +62,23 @@
 3. Free Sound https://freesound.org/
 
 4. Internet Archive https://archive.org/details/opensource_audio
+
+Royalty Free Ambient Sound
+https://pixabay.com/sound-effects/search/ambient/
+
+## 🔗相關連結 - Andio
+
+tinyurl.com/soundlink400
+
+Ableton learn synth:
+https://learningsynths.ableton.com/en/playground
+
+Roland Sequencers web app:
+https://roland50.studio/
+
+Audio converter
+https://cloudconvert.com/mp4-converter
+
 
 
 
