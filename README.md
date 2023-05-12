@@ -83,24 +83,19 @@ lazarus:
 
 4. Internet Archive https://archive.org/details/opensource_audio
 
-Royalty Free Ambient Sound
-https://pixabay.com/sound-effects/search/ambient/
+5. Royalty Free Ambient Sound https://pixabay.com/sound-effects/search/ambient/
+
 
 
 
 
 Andio:
 
+
+
 tinyurl.com/soundlink400 (https://docs.google.com/document/d/1Ov8khTTE2uyh5M6Nx80OaAZoGltTymBk_y3TIceN2ug/edit)
 
-Ableton learn synth:
-https://learningsynths.ableton.com/en/playground
 
-Roland Sequencers web app:
-https://roland50.studio/
-
-Audio converter
-https://cloudconvert.com/mp4-converter
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
