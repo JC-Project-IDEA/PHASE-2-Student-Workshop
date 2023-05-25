@@ -42,32 +42,13 @@
 
 
 <li>
-<a href="https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/d142841a5351fd6474d463ced035a287cb804ed4/Part%201_Drawing(I)%20-%20Expand!%20Drawing!_compressed.pdf"> 第1堂  </a>
+<a href="https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/d142841a5351fd6474d463ced035a287cb804ed4/Part%201_Drawing(I)%20-%20Expand!%20Drawing!_compressed.pdf"> 第1堂 - Drawing  </a>
 </li>
 
 <li>
-<a href="https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/main/Part%202%20%20Arduino(I)%20-%20Draw%20the%20Circuit.pdf"> 第2堂  </a>
+<a href="https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/main/Part%202%20%20Arduino(I)%20-%20Draw%20the%20Circuit.pdf"> 第2堂 - Circuit </a>
 </li>
 
-<li>
-<a href=""> 第3堂  </a>
-</li>
-
-<li>
-<a href=""> 第4堂  </a>
-</li>
-
-<li>
-<a href=""> 第5堂  </a>
-</li>
-
-<li>
-<a href=""> 第6堂  </a>
-</li>
-
-<li>
-<a href=""> 第7堂  </a>
-</li>
 
 
 
