@@ -50,7 +50,15 @@
 </li>
 
 <li>
-<a href="https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/main/Part%203%20%20Sound(I)%20-%20Fields%20of%20Sense.pdf"> 第3堂 - Sound </a>
+<a href="https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/main/Part%203%20%20Sound(I)%20-%20Fields%20of%20Sense.pdf"> 第3堂 - Sound I </a>
+</li>
+
+<li>
+<a href="https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/main/Part%204%20%20Sound(II)%20-%20Fields%20of%20Sense.pdf"> 第4堂 - Sound II </a>
+</li>
+
+<li>
+<a href="https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/main/Part%205%20%20Arduino(II)%20-%20Basic%20Coding_compressed.pdf"> 第5堂 - Circuit II </a>
 </li>
 
 
