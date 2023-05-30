@@ -70,6 +70,8 @@ lazarus:
 
 5. Royalty Free Ambient Sound https://pixabay.com/sound-effects/search/ambient/
 
+6. Learningsynths(Ableton) https://learningsynths.ableton.com/en/playground
+
 
 
 
