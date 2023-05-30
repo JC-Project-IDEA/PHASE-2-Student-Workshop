@@ -58,7 +58,7 @@
 </li>
 
 <li>
-<a href="https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/main/Part%205%20%20Arduino(II)%20-%20Basic%20Coding_compressed.pdf"> 第5堂 - Circuit II </a>
+<a href= "https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/main/Part%205%20%20Arduino(II)%20-%20Basic%20Coding_compressed.pdf"> 第5堂 - Circuit II </a>
 </li>
 
 
