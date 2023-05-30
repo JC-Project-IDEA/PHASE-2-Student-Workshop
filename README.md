@@ -50,7 +50,7 @@
 </li>
 
 <li>
-<a href="https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/main/Part%202%20%20Arduino(I)%20-%20Draw%20the%20Circuit.pdf"> 第3堂 - Sound </a>
+<a href="https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/main/Part%203%20%20Sound(I)%20-%20Fields%20of%20Sense.pdf"> 第3堂 - Sound </a>
 </li>
 
 
