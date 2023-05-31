@@ -61,7 +61,36 @@
 <a href= "https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/main/Part%205%20%20Arduino(II)%20-%20Basic%20Coding_compressed.pdf"> 第5堂 - Circuit II </a>
 </li>
 
+Code Example (Blink) :
+void setup() {
+  pinMode(LED_BUILTIN, OUTPUT);
+}
 
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000);
+}
+
+Code Example (SimpleMP3Player) :
+#include "SerialMP3Player.h"// 使用MP3版的編碼庫library
+
+#define TX 11 //to MP3 board RX //定義ARDUINO TX到MP3 RX引腳連接
+#define RX 10 //to MP3 board TX //定義ARDUINO RX到MP3 TX引腳連接
+
+SerialMP3Player mp3(RX, TX);// 定義起動MP3相關的TX， RX
+
+//設定：有電源起動時執行一次的程序
+void setup() {
+  Serial.begin(9600);     // 起動serial介面
+  mp3.begin(9600);        // 開始MP3版的連接
+  delay(500);             // 等待起動
+  mp3.sendCommand(CMD_SEL_DEV, 0, 2);   //選取 sd-card
+  delay(500);             // 等待起動
+  mp3.setVol(15);// 設定音量
+  mp3.play(1);     //歌曲於SD CARD內的次序
+}
 
 
 ## 相關連結
